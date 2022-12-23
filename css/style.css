@@ -1,0 +1,269 @@
+* {
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+
+header{
+    width: 1140px;
+    text-align: center;
+   
+    justify-content: space-between;
+  
+   
+  
+   
+
+}
+
+
+
+.promo {
+    margin-top: 50px;
+    background: url("../img/Rectangle.png") no-repeat center top / cover;
+}
+
+.menu {
+    font-size: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    right: 20px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: blue;
+}
+
+.container1 {
+    width: 70%px;
+    min-width: 200px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.promo h3 {
+    padding-top: 188px;
+    line-height: 46px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    font-size: 43px;
+}
+
+.promo h4 {
+    padding-top: 12px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+}
+
+.promo h5 {
+    padding-top: 28px;
+    color: #ffffff;
+    font-size: 13px;
+    text-align: center;
+    padding-bottom: 197px;
+
+}
+
+
+.text2 {
+    min-width: 50%;
+    width: 70%;
+
+}
+
+
+.text2 h2 {
+    font-size: 43px;
+    text-align: center;
+    color: #000;
+    padding-top: 80px;
+}
+
+.text2 p {
+    font-size: 14px;
+    color: #A0A0A0;
+    text-align: center;
+    padding-top: 23px;
+}
+
+.text2 h3 {
+    text-align: center;
+    color: #000;
+    font-size: 13px;
+    padding-top: 26px;
+    padding-bottom: 81px;
+}
+
+.container {
+    width: 1500px;
+    margin: 0 auto;
+    display: flex;
+    gap: 70px;
+    min-width: 40%;
+}
+
+.container .img {
+    background: url("../img/Rect\(1\).png") no-repeat center top / cover;
+    width: 1220px;
+    height: 500px;
+
+
+}
+
+.container .imgg {
+    background: url("../img/Rectangle\ \(1\).png") no-repeat center top / cover;
+    width: 1220px;
+    height: 500px;
+
+}
+
+
+
+
+.cont {
+    width: 1140px;
+    margin: 0 auto;
+
+}
+
+.flex {
+    display: flex;
+    padding-top: 101px;
+    text-align: center;
+}
+
+.flex h5 {
+    font-size: 34px;
+    color: #000;
+}
+
+.flex p {
+    padding-top: 23px;
+    font-size: 15px;
+    color: #000;
+}
+
+
+
+
+.as h1 {
+    text-align: center;
+    color: #000;
+    font-size: 50px;
+    padding-top: 116px;
+}
+
+.as p {
+    text-align: center;
+    color: #A0A0A0;
+    font-size: 25px;
+    padding-top: 15px;
+}
+
+
+.flex1 {
+
+    margin-top: 50px;
+    display: flex;
+    gap: 70px;
+}
+
+
+
+.boc {
+    margin-top: 60px;
+    background: url("../img/Frame\(6\).png") no-repeat center top / cover;
+}
+
+
+.boc h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 70px;
+    padding-top: 181px;
+}
+
+.boc p {
+    text-align: center;
+    font-size: 20px;
+    padding-top: 30px;
+    color: #ffffff;
+    padding-bottom: 181px;
+}
+
+
+
+
+
+
+
+.vin {
+    width: 1140px;
+    margin: 0 auto;
+
+}
+
+.vin h1 {
+    color: #000;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 116px;
+}
+
+.vin p {
+    color: #A0A0A0;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 23px;
+    padding-bottom: 60px;
+}
+
+.img2 {
+    background: url("../img/image\ 1.png") no-repeat center top / cover;
+    width: 1152px;
+    height: 700px;
+}
+
+
+
+
+.conta {
+    width: 70%;
+    margin: 0 auto;
+
+    text-align: center;
+}
+
+.conta h1 {
+    padding-top: 40px;
+    font-size: 50px;
+    color: #000;
+}
+
+.conta p {
+    font-size: 20px;
+    color: #A0A0A0;
+    padding-top: 23px;
+    padding-bottom: 60px;
+}
+
+.prom2 img {
+    width: 500px;
+    height: 700px;
+    margin: 0 auto;
+
+}
+
+.prom2 {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 50px 50px;
+}
